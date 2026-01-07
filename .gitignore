@@ -1,0 +1,14 @@
+__pycache__/
+
+# VS Code
+.vscode/
+
+# Visual Studio
+.vs/
+
+# Logs
+_logs/
+
+# Environments
+venv/
+venv.bak/
