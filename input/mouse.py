@@ -55,7 +55,7 @@ def mouse_drag_loop():
     1. Moves to screen center
     2. Moves right then left repeatedly
     """
-    directions = [1, -1]  # +1 = right, -1 = left
+    directions = [1, -1, -1, 1]  # +1 = right, -1 = left
 
     while not state.stop_program:
         if not state.mouse_running:
